@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ecello.net](https://ecello.net)
 
-- 💬 Ask me about **Data pipelines, Power BI, AWS, Azure — or my past life in full-stack web & mobile app development**
+- 💬 Ask me about **Data pipelines, Power BI, AWS, Azure or my past life in full-stack web & mobile app development**
 
 - 📫 How to reach me **moeezramay1@gmail.com**
 
