@@ -26,3 +26,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeezramay&show_icons=true&locale=en&layout=compact" alt="moeezramay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeezramay&show_icons=true&locale=en" alt="moeezramay" /></p>
+
+<br clear="both"/>
+
+<h3 align="left">My contribution graph, but it's Breakout 🧱</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moeezramay/moeezramay/output/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moeezramay/moeezramay/output/light.svg" />
+    <img alt="Breakout game generated from my GitHub contribution grid" src="https://raw.githubusercontent.com/moeezramay/moeezramay/output/light.svg" />
+  </picture>
+</p>
