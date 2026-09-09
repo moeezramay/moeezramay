@@ -27,10 +27,3 @@
 
 <br clear="both"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moeezramay/moeezramay/output/dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moeezramay/moeezramay/output/light.svg?v=2" />
-    <img alt="Breakout game generated from my GitHub contribution grid" src="https://raw.githubusercontent.com/moeezramay/moeezramay/output/light.svg?v=2" />
-  </picture>
-</p>
